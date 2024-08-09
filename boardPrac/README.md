@@ -1,5 +1,2 @@
 # boardPrac
 처음 만들어본 게시판
-# board-proc
-# board-proc
-# board-proc
